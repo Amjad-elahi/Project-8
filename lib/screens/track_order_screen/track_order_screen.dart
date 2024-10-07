@@ -166,10 +166,10 @@ class TrackOrderScreen extends StatelessWidget {
                                               context,
                                               MaterialPageRoute(
                                                   builder: (context) =>
-                                                      const HomeScreen()));
+                                                      HomeScreen()));
                                         },
-                                        child: const Center(
-                                          child: CustomText(
+                                        child: Center(
+                                          child: const CustomText(
                                             text: "Done",
                                             color: Color(0xffF4F4F4),
                                             size: 16,
