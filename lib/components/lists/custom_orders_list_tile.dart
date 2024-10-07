@@ -22,7 +22,7 @@ class CustomOrdersListTile extends StatelessWidget {
         text: text,
         color: const Color(0xffD7D1CA),
         size: 20,
-        weight: FontWeight.normal,
+        weight: FontWeight.w600,
       ),
       trailing: IconButton(
           onPressed: onPressed,
