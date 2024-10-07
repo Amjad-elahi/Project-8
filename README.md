@@ -71,7 +71,8 @@
 
 ![home](https://github.com/user-attachments/assets/a8141530-8c16-4a98-8e93-ba8588332b89)
 
-![b774e867c938046adf70c0c6b173a556](https://github.com/user-attachments/assets/95a46ef7-6d35-44e5-aa79-d442d5241e7a)
+![ScreenRecording1446-04-04at3 11 30AM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6b671c2a-92e5-44a0-b3ab-b71b3c4ea2b9)
+
 
 ### User Flow
 The user flow diagram illustrates the process of managing orders for both employees and customers in an ordering system. Here's a detailed breakdown:
@@ -167,7 +168,6 @@ The user flow diagram illustrates the process of managing orders for both employ
 ![Screenshot 2024-10-05 at 8 51 45 PM](https://github.com/user-attachments/assets/71450d5b-061e-4d36-8a1e-e009bc442978)
 
 ![Screenshot 2024-10-05 at 8 56 22 PM](https://github.com/user-attachments/assets/b4bdd9ae-b55e-4d07-9a73-9c30c8319390)
-
 
 ### Dependencies
 
