@@ -185,7 +185,8 @@ The user flow diagram illustrates the process of managing orders for both employ
 
 
 ### Team Members
- Abdulaziz Alruwaily
- Amjad Elahi
- Linda Almakramy
-  Nouf Alqahtani
+- [Abdulaziz Alruwaily](https://github.com/Nashruful)
+- [Amjad Elahi](https://github.com/Amjad-elahi)
+- [Linda Almakramy](https://github.com/lindamakk)
+- [Nouf Alqahtani](https://github.com/noufAlqahtani1)
+ 
